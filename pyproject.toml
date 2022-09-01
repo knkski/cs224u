@@ -1,0 +1,27 @@
+[build-system]
+requires = ["poetry_core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+name = "cs224u"
+version = "0.0.1"
+description = ""
+authors = [
+]
+
+[tool.poetry.dependencies]
+python = "~3.9"
+
+datasets = "~2.0"
+gitpython = "~3.1"
+jupyterlab = "~3.4"
+matplotlib = "~3.5"
+pyarrow = "~8.0"
+scikit-learn = "~1.1"
+scipy = "~1.9"
+spacy = "~3.4"
+torch = "~1.10.1"
+torchvision = "~0.11"
+transformers = "~4.17"
+
+[tool.poetry.dev-dependencies]
