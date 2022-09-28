@@ -69,3 +69,8 @@ rel_ext_data*
 .DS_Store
 ColBERT*
 experiments*
+
+cs224u*.csv
+.last_checked
+.lsp_symlink
+.virtual_documents
