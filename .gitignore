@@ -74,3 +74,16 @@ cs224u*.csv
 .last_checked
 .lsp_symlink
 .virtual_documents
+
+
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.pdf
+*.pdfsync
+*.synctex.gz
+*.toc
+.auctex-auto
+_region_.tex
